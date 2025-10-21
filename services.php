@@ -80,100 +80,100 @@ include_once 'check_login.php'; ?>
                 <button onclick="addToCart('Handicraft Ambari', 2200.50)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="Coasters">
-                <h3>Set of 4 Wooden Coasters</h3>
+                <img src="craft15.jpg" alt="Pooja chowki">
+                <h3>Pooja Chowki</h3>
                 <p>Rs.1800.00</p>
-                <button onclick="addToCart('Set of 4 Wooden Coasters', 1800.00)">Add to Cart</button>
+                <button onclick="addToCart('Pooja Chowki', 1800.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/4E342E/FFFFFF?text=Chopping+Board" alt="Chopping Board">
-                <h3>Artisan Chopping Board</h3>
+                <img src="craft16.jpg" alt="Elephant">
+                <h3>Wooden Elephant</h3>
+                <p>Rs.800.00</p>
+                <button onclick="addToCart('Wooden Elephant', 800.00)">Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="craft17.jpg" alt="Croster Set">
+                <h3>Croster Set-Gift item</h3>
+                <p>Rs.300.00</p>
+                <button onclick="addToCart('Croster Set-Gift item', 300.00)">Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="craft18.jpg" alt="Spoon set">
+                <h3>Coconut wood Kitchen spoon set</h3>
+                <p>Rs.2500.50</p>
+                <button onclick="addToCart('Coconut wood Kitchen spoon set', 2500.50)">Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="craft19.jpg" alt="Love birds">
+                <h3>Kadam Wood Undercut Fine Love Birds Table Decore</h3>
+                <p>Rs.5000.00</p>
+                <button onclick="addToCart('Kadam Wood Undercut Fine Love Birds Table Decore', 5000.00)">Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="craft20.jpg" alt="Chess Board">
+                <h3>Artisanal Wooden Chess Board Set</h3>
                 <p>Rs.600.00</p>
-                <button onclick="addToCart('Artisan Chopping Board', 6000.00)">Add to Cart</button>
-            </div>
-            <div class="product">
-                <img src="toys.png" alt="Rustic Wooden Toys">
-                <h3>Rustic Wooden Toys</h3>
-                <p>Rs.3500.00</p>
-                <button onclick="addToCart('Rustic Wooden Toys', 3500.00)">Add to Cart</button>
-            </div>
-            <div class="product">
-                <img src="craft8.jpg" alt="">
-                <h3>Wooden Clock</h3>
-                <p>Rs.2200.50</p>
-                <button onclick="addToCart('Wooden Clock', 2500.50)">Add to Cart</button>
-            </div>
-            <div class="product">
-                <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="stools">
-                <h3>Set of 2 Wooden stools</h3>
-                <p>Rs.1800.00</p>
-                <button onclick="addToCart('Set of 2 Wooden Stools', 2800.00)">Add to Cart</button>
-            </div>
-            <div class="product">
-                <img src="https://via.placeholder.com/250x150/4E342E/FFFFFF?text=Chopping+Board" alt="frame">
-                <h3>Artisan Frame</h3>
-                <p>Rs.600.00</p>
-                <button onclick="addToCart('Artisan Frames', 6550.00)">Add to Cart</button>
+                <button onclick="addToCart('Artisanal Wooden Chess Board Set', 600.00)">Add to Cart</button>
             </div>
                 <div class="product">
-                <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="stools">
-                <h3>Set of 2 Wooden stools</h3>
-                <p>Rs.1800.00</p>
-                <button onclick="addToCart('Set of 2 Wooden Stools', 2800.00)">Add to Cart</button>
+                <img src="craft21.jpg" alt="stools">
+                <h3>Wooden Cutter</h3>
+                <p>Rs.280.00</p>
+                <button onclick="addToCart('Wooden Cutter', 280.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/4E342E/FFFFFF?text=Chopping+Board" alt="frame">
-                <h3>Artisan Frame</h3>
-                <p>Rs.600.00</p>
-                <button onclick="addToCart('Artisan Frames', 6550.00)">Add to Cart</button>
+                <img src="craft23.jpg" alt="Gandhi charkha">
+                <h3>Wood Antique Gandhi Charkha Showpiece</h3>
+                <p>Rs.6000.00</p>
+                <button onclick="addToCart('Wood Antique Gandhi Charkha Showpiece', 6000.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/5D4037/FFFFFF?text=Wooden+Tray" alt="Wooden Tray">
-                <h3>Rustic Wooden Serving Tray</h3>
+                <img src="craft22.jpg" alt="bird">
+                <h3>Wooden bird figuriness</h3>
                 <p>Rs.3500.00</p>
-                <button onclick="addToCart('Rustic Wooden Serving Tray', 3500.00)">Add to Cart</button>
+                <button onclick="addToCart('Wooden bird figuriness', 3500.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/A1887F/FFFFFF?text=Candle+Holder" alt="Candle Holder">
-                <h3>Hand-Turned Candle Holder</h3>
+                <img src="craft24.jpg" alt="Owl">
+                <h3>Wooden Owl Jali Antique Showpiece Set Of 5 Pcs</h3>
                 <p>Rs.2200.50</p>
-                <button onclick="addToCart('Hand-Turned Candle Holder', 2200.50)">Add to Cart</button>
+                <button onclick="addToCart('Wooden Owl Jali Antique Showpiece Set Of 5 Pcs', 2200.50)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="Coasters">
-                <h3>Set of 4 Wooden Coasters</h3>
-                <p>Rs.1800.00</p>
-                <button onclick="addToCart('Set of 4 Wooden Coasters', 1800.00)">Add to Cart</button>
+                <img src="craft25.jpg" alt="Brass">
+                <h3>Wooden Cannon With Brass Accents</h3>
+                <p>Rs.1399.00</p>
+                <button onclick="addToCart('Wooden Cannon With Brass Accents', 1399.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/4E342E/FFFFFF?text=Chopping+Board" alt="Chopping Board">
-                <h3>Artisan Chopping Board</h3>
-                <p>Rs.600.00</p>
-                <button onclick="addToCart('Artisan Chopping Board', 6000.00)">Add to Cart</button>
+                <img src="craft26.jpg" alt="Incense Holder">
+                <h3>Wooden Incense Stick Holder</h3>
+                <p>Rs.150.00</p>
+                <button onclick="addToCart('Wooden Incense Stick Holder', 150.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/5D4037/FFFFFF?text=Wooden+Tray" alt="Rustic Wooden Toys">
-                <h3>Rustic Wooden Toys</h3>
-                <p>Rs.3500.00</p>
-                <button onclick="addToCart('Rustic Wooden Toys', 3500.00)">Add to Cart</button>
+                <img src="craft27.jpg" alt="">
+                <h3>Round Wooden Tray</h3>
+                <p>Rs.500.00</p>
+                <button onclick="addToCart('Round Wooden Tray', 500.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/A1887F/FFFFFF?text=Candle+Holder" alt="Clock">
-                <h3>Wooden Clock</h3>
+                <img src="craft28.jpg" alt="Jigsaw Puzzle">
+                <h3>Jigsaw Puzzle</h3>
                 <p>Rs.2200.50</p>
-                <button onclick="addToCart('Wooden Clock', 2500.50)">Add to Cart</button>
+                <button onclick="addToCart('Jigsaw Puzzle', 2500.50)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="stools">
-                <h3>Set of 2 Wooden stools</h3>
-                <p>Rs.1800.00</p>
-                <button onclick="addToCart('Set of 2 Wooden Stools', 2800.00)">Add to Cart</button>
+                <img src="craft29.jpg" alt="Sandglass Clock">
+                <h3>Sandglass Clock</h3>
+                <p>Rs.1399.00</p>
+                <button onclick="addToCart('Sandglass Clock', 1399.00)">Add to Cart</button>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/250x150/4E342E/FFFFFF?text=Chopping+Board" alt="frame">
-                <h3>Artisan Frame</h3>
-                <p>Rs.600.00</p>
-                <button onclick="addToCart('Artisan Frames', 6550.00)">Add to Cart</button>
+                <img src="craft30.jpg" alt="Handmade Wooden Crane Toy">
+                <h3>Handmade Wooden Crane Toy</h3>
+                <p>Rs.1750.00</p>
+                <button onclick="addToCart('Handmade Wooden Crane Toy', 1750.00)">Add to Cart</button>
             </div>
                 <div class="product">
                 <img src="https://via.placeholder.com/250x150/8D6B5B/FFFFFF?text=Coasters" alt="stools">
