@@ -1,5 +1,5 @@
 1.heaven database
-create databsase heaven;
+CREATE DATABASE heaven_db;
 
 
 2.table users
@@ -20,3 +20,4 @@ CREATE TABLE `login_data` (
   `ip_address` varchar(45) DEFAULT NULL,
   `user_agent` text DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
